@@ -1,0 +1,16 @@
+com\social\socialmediappli\service\UserService.class
+com\social\socialmediappli\controller\InfluencerController.class
+com\social\socialmediappli\repository\InfluencerRepo.class
+com\social\socialmediappli\entity\User.class
+com\social\socialmediappli\SocialmediappliApplication.class
+com\social\socialmediappli\entity\Influencer.class
+com\social\socialmediappli\controller\UserController.class
+com\social\socialmediappli\dto\InfluencerDto.class
+com\social\socialmediappli\entity\PlatForm.class
+com\social\socialmediappli\repository\PlatformRepo.class
+com\social\socialmediappli\dto\UserDto.class
+com\social\socialmediappli\repository\UserRepo.class
+com\social\socialmediappli\service\InfluencerService.class
+com\social\socialmediappli\service\PlatformService.class
+com\social\socialmediappli\utilitymethod\UtilityMethods.class
+com\social\socialmediappli\controller\PlatformController.class
